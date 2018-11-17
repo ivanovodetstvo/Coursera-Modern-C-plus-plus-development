@@ -13,7 +13,7 @@
 
 5 Cources:
 
-1. [Белый пояс] (https://github.com/VulpesCorsac/Coursera-Basics-of-C-plus-plus-development/tree/master/1%20-%20White%20belt)
+1. [Белый пояс](https://github.com/VulpesCorsac/Coursera-Basics-of-C-plus-plus-development/tree/master/1%20-%20White%20belt)
 2. Жёлтый пояс
 3. Красный пояс
 4. Коричневый пояс
