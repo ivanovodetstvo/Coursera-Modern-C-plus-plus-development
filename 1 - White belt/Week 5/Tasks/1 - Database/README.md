@@ -76,7 +76,7 @@ Month value is invalid: 13
 
 Допишите в этот шаблон недостающие части решения и отправьте его на проверку:
 
-[project_template.cpp](https://d3c33hcgiwev3.cloudfront.net/_c9ebf0f7b7682fc14001b131523d6a6b_project_template.cpp?Expires=1515888000&Signature=NtR8u~4xBu0-R83ymX1Ggj13tCZ-nhr0bJ7h1LbQuqJFkuYiwHwmD-iblQpcfl7VnYfmTxmCz~h7n8UBkzav0XTJCZPTDKa~aPRSgYh00nX-wQMrFjVPZJqLrs79Vuba6ZEn-8l~avmkETOsrdnZpJYX5mm05asiJkxVOpXloFk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[project_template.cpp](https://github.com/VulpesCorsac/Coursera-Basics-of-C-plus-plus-development/blob/master/1%20-%20White%20belt/Week%205/Tasks/1%20-%20Database/Solution/project_template.cpp)
 
 ##### Примечания #####
 ###### Преобразование числа к строке ######

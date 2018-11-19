@@ -30,4 +30,4 @@ private:
 * выброс исключения *system_error* (класс *system_error* принимает в конструкторе параметр типа *error_code*, поэтому самый простой способ выбросить это исключение — *throw system_error(error_code());*, подробнее см. [http://www.cplusplus.com/reference/system_error/system_error](http://www.cplusplus.com/reference/system_error/system_error/));
 * выброс других исключений.
 
-[time_server.cpp](https://github.com/avtomato/Basics-of-C-plus-plus-development-white-belt/blob/master/week-04/12-Programming-Assignment/Source/time_server.cpp)
+[time_server.cpp](https://github.com/VulpesCorsac/Coursera-Basics-of-C-plus-plus-development/blob/master/1%20-%20White%20belt/Week%204/Tasks/12%20-%20Time%20server/Solution/time_server.cpp)
