@@ -2,7 +2,7 @@
 
 <p>
     <a href="https://www.coursera.org/learn/c-plus-plus-white/">
-        <img src="https://github.com/VulpesCorsac/Coursera-Basics-of-C-plus-plus-development/blob/master/Logo.jpg">
+        <img src="https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/1%20-%20White%20belt/Logo1.jpg">
     </a>
 </p>
 
