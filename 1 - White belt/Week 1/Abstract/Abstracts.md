@@ -1,0 +1,2 @@
+[Страница с конспектом](https://www.coursera.org/learn/c-plus-plus-white/supplement/CETa1/konspiekt)
+[W1P4.pdf]https://d3c33hcgiwev3.cloudfront.net/_13ab831eef638936934b8ed78350c2b3_W1P4.pdf?Expires=1542844800&Signature=DlZBf6B4fkH6xu9KDtdm8PXuwedY2Lgsvso-odTU~sE6WazhRu2hUJvpcHdvwhcMExr4~vQ8VxcZWzxqZjSG8xb5iTG2-MubtZaUws1DGOcZWl6cF4Z-tVIh8xnnB2JLRXwvoFOkW25pNVHL7UKhDFK5m~6xE9ugb5IHKtM2GlQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
