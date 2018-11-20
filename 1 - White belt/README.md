@@ -15,11 +15,11 @@
 Логическим продолжением курса станет специализация «Искусство разработки на современном C++».
 
 Содержание:
-1. Знакомство с искусством C++
-2. Техника владения функциями и контейнерами
-3. Медитация над алгоритмами и классами
-4. Ката по вводу/выводу, исключениям и перегрузке операторов
-5. Первое кумитэ
+1. [Знакомство с искусством C++](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%201)
+2. [Техника владения функциями и контейнерами](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%202)
+3. [Медитация над алгоритмами и классами](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%203)
+4. [Ката по вводу/выводу, исключениям и перегрузке операторов](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%204)
+5. [Первое кумитэ](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%205)
 
 #### Для кого этот курс ####
 Курс подходит тем, кто совсем незнаком с языком C++, но при этом представляет себе, что такое программирование, знает, что такое переменная, цикл, условный оператор, массив, функция. Подойдёт как студентам, так и специалистам, желающим освоить новый язык с нуля.

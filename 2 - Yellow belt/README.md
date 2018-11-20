@@ -35,12 +35,12 @@
 - Константин Меренков
 
 Содержание:
-1. Целочисленные типы, кортежи, шаблонные функции
-2. Тестирование и отладка
-3. Распределение кода по файлам
-4. Итераторы, алгоритмы и контейнеры
-5. Наследование и полиморфизм
-6. Курсовой проект
+1. [Целочисленные типы, кортежи, шаблонные функции](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/2%20-%20Yellow%20belt/Week%201)
+2. [Тестирование и отладка](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/2%20-%20Yellow%20belt/Week%202)
+3. [Распределение кода по файлам](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/2%20-%20Yellow%20belt/Week%203)
+4. [Итераторы, алгоритмы и контейнеры](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/2%20-%20Yellow%20belt/Week%204)
+5. [Наследование и полиморфизм](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/2%20-%20Yellow%20belt/Week%205)
+6. [Курсовой проект](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/2%20-%20Yellow%20belt/Week%206)
 
 #### Для кого этот курс ####
 Так как этот курс является продолжением "Белого пояса", он подходит для тех, для кого подходит "Белый пояс" и кто овладел его материалом, а именно студентам и специалистам, которые владеют хотя бы одним языком программирования, а в области C++ знакомы со следующими темами: * условный оператор и циклы * функции * использование vector, map, set * создание собственных классов * ввод/вывод с помощью потоков * перегрузка операторов * выбрасывание и ловля исключений

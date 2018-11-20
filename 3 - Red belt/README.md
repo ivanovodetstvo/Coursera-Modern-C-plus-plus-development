@@ -38,12 +38,12 @@
 В создании урока  «Шаблоны классов» принимал участие преподаватель Белого и Жёлтого «поясов» Евгений Парамонов.
 
 Содержание:
-1. Макросы и шаблоны классов
-2. Принципы оптимизации кода, сложность алгоритмов и эффективное использование ввода/вывода
-3. Модель памяти в C++
-4. Эффективное использование линейных контейнеров
-5. Move-семантика и базовая многопоточность
-6. Финальная задача
+1. [Макросы и шаблоны классов](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/3%20-%20Red%20belt/Week%201)
+2. [Принципы оптимизации кода, сложность алгоритмов и эффективное использование ввода/вывода](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/3%20-%20Red%20belt/Week%202)
+3. [Модель памяти в C++](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/3%20-%20Red%20belt/Week%203)
+4. [Эффективное использование линейных контейнеров](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/3%20-%20Red%20belt/Week%204)
+5. [Move-семантика и базовая многопоточность](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/3%20-%20Red%20belt/Week%205)
+6. [Финальная задача](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/3%20-%20Red%20belt/Week%206)
 
 #### Для кого этот курс ####
 Этот курс является продолжением "Жёлтого пояса"
